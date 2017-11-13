@@ -1,0 +1,38 @@
+/* Legend */
+#legend {
+    font-family: Arial, sans-serif;
+    background-color:rgba(255,255,255, 0.9);
+    padding: 10px;
+    margin: 5px;
+	font-size: 12px;
+  }
+  
+  .color {
+        border: 1px solid;
+        height: 12px;
+        width: 12px;
+        margin-right: 3px;
+        float: left;
+      }
+
+      .light_red {
+        background: #DE7A71;
+      }
+
+      .strong_green {
+        background: #13AF15;
+      }
+
+      .green {
+        background: #65BE18;
+      }
+
+      .green_avocado {
+        background: #C4CD1D;
+      }
+
+      .light_brown {
+        background: #DD9E4A;
+      }
+	  
+	  /* end Legend */
